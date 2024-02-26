@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(233, 228, 238);
+}
+button{
+    background-color: rgb(25, 235, 235);
+   
+}
+a{
+    background-color: rgb(236, 52, 175);
+    height: 50px;
+    width: 200px;
+}
+hr{
+    border-style: none;
+    border-top-style: ridge;
+    border-top-width: 5px;  
+    width: 30%;  }
+img{
+    height: inherit;
+    width: 200px;
+} 
+table{
+    color: #000;
+}
+/* name*/
+Name
+{
+    background-color: rgb(88, 5, 5);
+    height: inherit;
+    width: 50px;
+    border: 2px;
+}
